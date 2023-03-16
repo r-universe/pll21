@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pKSEA"]
+	path = pKSEA
+	url = https://github.com/pll21/pksea
+	shallow = true
+	registered = true
